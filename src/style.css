@@ -6,15 +6,17 @@
     h1 {
         font-family: 'Abril Fatface', cursive;
     }
-    h2 {
-        font-family: 'Roboto', sans-serif;
+    h2,
+    button {
+        font-family: 'Volkhov', serif;
     }
 
     h3 {
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Volkhov', serif;
     }
 
-    p {
+    p,
+    li {
         font-family: 'Roboto', sans-serif;
     }
 
